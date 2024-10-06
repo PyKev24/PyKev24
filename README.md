@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PyKev24
-- 👀 I’m interested in python and physics.
+- 👀 I love dogs and like to read novels.
 - 🌱 I’m currently learning python, physics and other things.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m using these websites to practice: freecodecamp.org and retosdeprogramacion.com
+- 📫 My social networks ...
 
 <!---
 PyKev24/PyKev24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
